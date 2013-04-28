@@ -1,0 +1,92 @@
+[0.384] Log: Log file open, 04/27/13 19:28:10
+[0.384] Init: BioWare Final Build Version: 1.2.20608.0
+[0.384] Init: Command line: 
+[0.384] Init: Base directory: F:\game\(ÏH”\(ÏH”1\Binaries\
+[1.156] Init: CPU Page size=4096, Processors=4
+[1.156] Init: High frequency timer resolution =2.728193 MHz
+[1.156] Init: Memory total: Phys=4194303K Pagef=4194303K Virt=2097024K
+[7.986] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[7.986] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[7.986] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[7.986] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[7.987] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[8.047] Log: Failed to load 'Material None.': Failed to find object 'Material None.'
+[9.584] Init: Audio Driver: Realtek Digital Output (Realtek High Definition Audio) ({0.0.0.00000000}.{89591670-c6b6-4e0f-8f24-f056646ead0c})
+[9.612] Init: Audio Device: Generic Software
+[9.783] Init: 64 Free Sources, 2 Reserved
+[12.778] Log: >>>>>>>>>>>>>> Initial startup: 12.78s <<<<<<<<<<<<<<<
+[15.191] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[15.191] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[38.460] Log: Loading Xing00_03 on device Id 0...
+[39.024] Log: *** WARNING - PATHS MAY NOT BE VALID ***
+[41.725] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[41.725] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[42.869] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_9' with type 'hench_humanmale'.
+[42.871] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(168, isNum=0), column(10) in Bio2DA(Talent_TalentEffectLevels)
+[42.871] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(182, isNum=0), column(6) in Bio2DA(Talent_TalentEffectLevels)
+[42.871] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(238, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[42.872] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(323, isNum=0), column(6) in Bio2DA(Talent_TalentEffectLevels)
+[48.321] Warning: Warning, Unable to find conversation speaker to set local variable.
+[319.682] Warning: Warning, Unable to find conversation speaker to set local variable.
+[329.991] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[386.918] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[436.596] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(-1, isNum=0), column(2) in Bio2DA(Treasure_Tables_PlotItems)
+[436.597] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(-1, isNum=0), column(2) in Bio2DA(Treasure_Tables_PlotItems)
+[436.599] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(-1, isNum=0), column(2) in Bio2DA(Treasure_Tables_PlotItems)
+[436.608] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(-1, isNum=0), column(2) in Bio2DA(Treasure_Tables_PlotItems)
+[592.080] Warning: Warning, Conversation 'pro20_powell_dlg' is already running, aborting subsequent attempt to start it.
+[629.720] Log: Save took 0.26s to complete.
+[634.495] Log: Save took 0.22s to complete.
+[634.495] Log: Saved Xing00_QuickSave on device Id -1
+[847.740] Log: NumberedRow 2DA (Items_Manufacturer) is being asked for a row name
+[864.069] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[865.188] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[867.788] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[868.321] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[875.190] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[935.243] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[938.228] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(-1, isNum=0), column(2) in Bio2DA(Treasure_Tables_PlotItems)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1870, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1871, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1872, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1873, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1874, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1875, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1876, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1877, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1879, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1880, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1881, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1882, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1883, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[969.555] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1885, isNum=0), column(7) in Bio2DA(Talent_TalentEffectLevels)
+[1012.833] Log: Save took 0.25s to complete.
+[1045.907] Warning: Warning, Unable to find conversation speaker to set local variable.
+[1101.338] Error: Error, Attempting to unpause deleted VFX! name=bioa_pro00.TheWorld:PersistentLevel.BioVisualEffect_424 template=BIOG_APL_INT_G_Hex_Barrier_01_L.VFX.SheildSpawn03
+[1250.269] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[1254.252] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[1277.579] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[1367.500] Warning: Warning, Unable to find conversation speaker to set local variable.
+[1468.960] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[1483.723] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[1509.073] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[1509.073] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[1510.808] Warning: Warning,  UBioAFComponent::GetOwnersTargetBehavior(): Owner is null or owner target is null
+[1565.952] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[1565.952] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[1576.682] Warning: Warning, UBioItem::ComputeManufacturerStringRef(): failed to find row labelled -1 in manufacturer 2DA
+[1628.592] Log: Save took 0.22s to complete.
+[1628.592] Log: Saved Xing00_04 on device Id 1
+[1660.710] Warning: Warning, Entering a zone with no BioTriggerStream defined
+[1792.042] BioChallengeScaling: UBioPawnBehavior::ScaleSecondaryAttributes: Warning! Attribute table could not be found! No scaling done for pawn 'BioPawn_44' with type 'human_female'.
+[1792.045] Log: Bio2DA.cpp::CheckedGetIntEntry(): Failed to read row(1902, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[1792.045] Log: Bio2DA.cpp::CheckedGetFloatEntry(): Failed to read row(1918, isNum=0), column(4) in Bio2DA(Talent_TalentEffectLevels)
+[1792.883] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_0' has no equipment table!
+[1814.288] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_3' has no equipment table!
+[1884.501] Log: Save took 0.23s to complete.
+[1890.927] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_3' has no equipment table!
+[1890.928] BioChallengeScaling: UBioPawnBehavior::LoadEquipment - Warning! The pawn 'BioPawn_4' has no equipment table!
+[1921.994] Log: Save took 0.21s to complete.
+[1921.994] Log: Saved Xing00_QuickSave on device Id -1
+[1928.298] Log: Closing by request
+[1929.332] Uninitialized: Log file closed, 04/27/13 20:00:19
